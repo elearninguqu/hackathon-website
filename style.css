@@ -7,7 +7,10 @@
     font-weight: normal;
     font-style: normal;
 }
-
+@import url('https://fonts.googleapis.com/css?family=Amiri|Cairo|Tajawal');
+.headerlist {
+  font-family: 'Tajawal','Cairo', sans-serif;
+}
 body {
     color: #2f2f2f;
     font-family: 'Calibri';
@@ -462,7 +465,7 @@ a:hover, a:active {
     }
 
     .hero-slider .entry-title {
-        font-size: 72px;
+        font-size: 50px;
     }
 
     .countdown-holder {
